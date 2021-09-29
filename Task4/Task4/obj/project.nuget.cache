@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCpL7clERxKrkUFVpfJU/qd4zkQ+4TswCuo99Q8fao0kMIVDBjFyGKaw5QUAo7o+6qA1aNz0VRbOITExNqkgDg==",
+  "dgSpecHash": "q0XUXgT0jEKYwo9XQofgyo0x90ahsyaEfXnd5ahTLZcGhiJWa9C+K9yRwszSXtB8/EHyc/NDv3x8imdoz3TwCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tham\\source\\repos\\Task4\\Task4\\Task4.csproj",
+  "projectFilePath": "C:\\Users\\Tham\\OneDrive\\Tài liệu\\GitHub\\Task-4\\Task4\\Task4\\Task4.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
